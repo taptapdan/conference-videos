@@ -17,3 +17,9 @@ https://www.youtube.com/user/github/playlists?shelf_id=4&view=50&sort=dd
 https://www.youtube.com/user/jsconfeu/videos
 
 > JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.
+
+**React Alicante**
+
+https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w/videos
+
+> Videos from React Alicante, the international conference about React and React Native hosted in Alicante, Spain.
