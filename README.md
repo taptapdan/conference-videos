@@ -12,6 +12,12 @@ https://www.youtube.com/user/github/playlists?shelf_id=4&view=50&sort=dd
 
 > GitHub Universe is a conference for the builders, planners, and leaders defining the future of software
 
+**JSCamp**
+
+https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ/videos
+
+> JavaScript Conference, workshops, technology, inspiration, the Web and networking. Barcelona.
+
 **JSConf**
 
 https://www.youtube.com/user/jsconfeu/videos
