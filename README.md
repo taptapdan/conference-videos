@@ -1,5 +1,11 @@
 # Conference Videos
 
+**React Advanced**
+
+https://www.youtube.com/channel/UCnBz97yhe97DKQstjj1megQ/videos
+
+> React Advanced Meetup is a nontraditional meetup group, that challenges speakers and community members to skip entry level introductions and jump straight to deep, technical details. Engineers of any level of seniority are welcome, but it's expected that you do your "homework" first, so presenters can cover more tech details and insights within their talks.
+
 **Framework Summit**
 
 https://www.youtube.com/channel/UCUTZdTjqY9ypGfpYWvSHC2w/videos
