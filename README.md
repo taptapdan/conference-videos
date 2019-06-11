@@ -26,9 +26,7 @@ https://www.youtube.com/user/jsconfeu/videos
 
 **PyOhio**
 
-- PyOhio 2018 https://www.youtube.com/playlist?list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B
-- PyOhio 2017 https://www.youtube.com/playlist?list=PL2k6bbM_wgjtIH-DmrBuj8QiB8DkDUeqb
-- PyOhio 2016 https://www.youtube.com/playlist?list=PL2k6bbM_wgju204mCEyw3bmDH62dp_sLu
+https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ
 
 The FREE Annual Python Conference in Ohio
 
