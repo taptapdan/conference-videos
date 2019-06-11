@@ -24,6 +24,14 @@ https://www.youtube.com/user/jsconfeu/videos
 
 > JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.
 
+**PyOhio**
+
+- PyOhio 2018 https://www.youtube.com/playlist?list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B
+- PyOhio 2017 https://www.youtube.com/playlist?list=PL2k6bbM_wgjtIH-DmrBuj8QiB8DkDUeqb
+- PyOhio 2016 https://www.youtube.com/playlist?list=PL2k6bbM_wgju204mCEyw3bmDH62dp_sLu
+
+The FREE Annual Python Conference in Ohio
+
 **React Advanced**
 
 https://www.youtube.com/channel/UCnBz97yhe97DKQstjj1megQ/videos
