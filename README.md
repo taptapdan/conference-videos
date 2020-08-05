@@ -1,5 +1,11 @@
 # Conference Videos
 
+**Firebase Live 2020**
+
+https://firebaseonair.withgoogle.com/events/firebase-live20
+
+> 5-part series for app developers consisting of talks, tips, and technical tutorials to help you increase your productivity, knowledge, and collaboration.
+
 **Framework Summit**
 
 https://www.youtube.com/channel/UCUTZdTjqY9ypGfpYWvSHC2w/videos
