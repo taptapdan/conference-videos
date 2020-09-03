@@ -18,6 +18,12 @@ https://www.youtube.com/user/github/playlists?shelf_id=4&view=50&sort=dd
 
 > GitHub Universe is a conference for the builders, planners, and leaders defining the future of software
 
+**Google Next OnAir**
+
+https://cloud.withgoogle.com/next/sf/
+
+> Solve your most important business challenges with fresh on-demand content, interactive experiences, and more.
+
 **JSCamp**
 
 https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ/videos
